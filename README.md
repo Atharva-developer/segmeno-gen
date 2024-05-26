@@ -1,5 +1,8 @@
 # segmeno-gen
 
+Project Link - https://www.diagnosishimaqsad.co/
+(will take few mins to load, plz wait)
+
 
 **Leukemia Cell Segmentation** uses pre-trained neural networks to segment cancer cells and calculate the rate proliferation.
 
@@ -38,3 +41,9 @@ Deployment Issues with Render and GitHub:
 
 When deploying the application using Render, which relies on GitHub repositories, the team faced challenges due to the large size of the model files (exceeding 400 MB), preventing successful uploading to GitHub.
 Despite attempts to compress or split the model files, the limitations imposed by GitHub persisted, impeding the deployment process. Alternative hosting solutions or model compression techniques were explored, but a satisfactory resolution was not achieved within the project timeframe.
+
+
+
+
+
+
