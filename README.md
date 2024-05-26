@@ -3,6 +3,8 @@
 Project Link - https://www.diagnosishimaqsad.co/
 (will take few mins to load, plz wait)
 
+demo - https://youtu.be/5i_QVYOBngU
+
 
 **Leukemia Cell Segmentation** uses pre-trained neural networks to segment cancer cells and calculate the rate proliferation.
 
