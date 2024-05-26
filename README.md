@@ -4,8 +4,8 @@
 **Leukemia Cell Segmentation** uses pre-trained neural networks to segment cancer cells and calculate the rate proliferation.
 
 
-Problem Solving and Applications of Leukemia Cell Segmentation
-Problem Statement: Leukemia, a type of blood cancer, involves the abnormal proliferation of white blood cells (WBCs). However, accurately quantifying the percentage of leukemia cells within a sample of WBCs is challenging due to their morphological similarities.
+**Problem Solving and Applications of Leukemia Cell Segmentation
+** Problem Statement: Leukemia, a type of blood cancer, involves the abnormal proliferation of white blood cells (WBCs). However, accurately quantifying the percentage of leukemia cells within a sample of WBCs is challenging due to their morphological similarities.
 
 **Solution Offered:
 **
